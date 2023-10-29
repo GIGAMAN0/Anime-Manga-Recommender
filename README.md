@@ -1,7 +1,4 @@
 # Anime_Chooser-Selector
-CS50P Project
-
-# Anime_Chooser-Selector
 ## CS50P Project
 
 Anime Details Fetcher is a Python script that fetches and displays details of anime from the Kitsu API. Users can enter anime titles or get a random suggestion, and the script will show details such as the English and Japanese titles, synopsis, rating, and episode count.
