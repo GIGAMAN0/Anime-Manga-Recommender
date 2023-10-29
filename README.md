@@ -43,13 +43,9 @@ After running the script, follow the prompts to enter anime titles or get a rand
 
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
 ## Contact
 
-If you have any questions or feedback, feel free to contact me at [email](mailto:example@example.com).
+If you have any questions or feedback, feel free to contact me at [email](ahmedsharafaldeen12345@gmail.com).
 
 ## Acknowledgments
 
