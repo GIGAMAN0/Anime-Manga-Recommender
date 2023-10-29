@@ -45,7 +45,7 @@ Contributions are welcome! For major changes, please open an issue first to disc
 
 ## Contact
 
-If you have any questions or feedback, feel free to contact me at [email](ahmedsharafaldeen12345@gmail.com).
+If you have any questions or feedback, feel free to contact me at [email](mailto:ahmedsharafaldeen12345@gmail.com).
 
 ## Acknowledgments
 
