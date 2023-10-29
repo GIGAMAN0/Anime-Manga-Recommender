@@ -1,17 +1,29 @@
 # Anime_Chooser-Selector
 CS50P Project
-# Anime Details Fetcher
 
-This is a Python script that fetches details of anime from the Kitsu API. It allows users to enter anime titles or get a random suggestion, and retrieves information such as the English and Japanese titles, synopsis, rating, and episode count.
+# Anime_Chooser-Selector
+## CS50P Project
+
+Anime Details Fetcher is a Python script that fetches and displays details of anime from the Kitsu API. Users can enter anime titles or get a random suggestion, and the script will show details such as the English and Japanese titles, synopsis, rating, and episode count.
+
+## Getting Started
+
+These instructions will help you get a copy of the project up and running on your local machine.
+
+### Prerequisites
+
+The script requires Python and the Requests library. You can install Requests using pip: pip install requests
+
+
+### Installation
+
+1. Clone this repository or download the script file.
+2. Open a terminal or command prompt and navigate to the directory where the script is located.
+3. Run the script using the command: `python anime_details_fetcher.py`
 
 ## Usage
 
-1. Make sure you have Python installed on your system.
-2. Clone this repository or download the script file.
-3. Install the required libraries by running the following command: `pip install requests`
-4. Open a terminal or command prompt and navigate to the directory where the script is located.
-5. Run the script using the command: `python anime_details_fetcher.py`
-6. Follow the prompts to enter anime titles or get a random suggestion.
+After running the script, follow the prompts to enter anime titles or get a random suggestion. The script will fetch and display the details of the selected anime.
 
 ## Libraries Used
 
@@ -30,7 +42,21 @@ This is a Python script that fetches details of anime from the Kitsu API. It all
 - Testing: Write unit tests to ensure the script functions correctly and handles different scenarios.
 - Documentation: Provide inline comments in the code to explain the purpose of each function and section. Additionally, consider writing a more detailed documentation file (e.g., using Sphinx) to explain the project structure, usage, and any additional features.
 
+## Contributing
+
+Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+## Contact
+
+If you have any questions or feedback, feel free to contact me at [email](mailto:example@example.com).
+
 ## Acknowledgments
 
-- This script uses the Kitsu API to fetch anime details. (https://kitsu.io/api/edge/anime)
-- The script is inspired by the Anime Details Fetcher project on GitHub. (https://github.com/example/anime-details-fetcher)
+- This script uses the Kitsu API to fetch anime details.
+- Thanks to the CS50P course for the project inspiration.
+
+
