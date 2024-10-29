@@ -69,11 +69,7 @@ To use this tool, follow these steps:
 
 ## Contributing
 
-Contributions to this project are welcome! Please open an issue first to discuss any major changes or features you plan to add. Remember to update tests as necessary.
-
-## Contact
-
-If you have any questions or feedback, feel free to reach out via email: [your_email@example.com](mailto:your_email@example.com).
+Contributions to this project are welcome! Please open an issue first to discuss any major changes or features you plan to add. Remember to update tests as necessary
 
 ## Acknowledgments
 
