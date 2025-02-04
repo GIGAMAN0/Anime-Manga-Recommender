@@ -5,7 +5,7 @@ import requests
 import random
 
 # Replace with your actual Client ID obtained from MyAnimeList
-CLIENT_ID = 'cda54a3ebe763efedeb16513b842d9b3'
+CLIENT_ID = ''
 
 def get_anime_details(anime_name: str) -> dict:
     endpoint = 'https://api.myanimelist.net/v2/anime'
